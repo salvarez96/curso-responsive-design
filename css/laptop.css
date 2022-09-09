@@ -1,0 +1,22 @@
+.main-tables-container {
+    width: 900px;
+}
+
+.main-benefit-content {
+    width: 900px;
+    border-left: 45px solid transparent;
+    border-right: 45px solid transparent;
+}
+
+.plans-container--slider {
+    width: 900px;
+}
+
+.plans-container--card {
+    margin: 0 2vw;
+}
+
+.footer-logo img {
+    width: 75px;
+    height: 61px;
+}

@@ -1,0 +1,40 @@
+.main-tables-container {
+    justify-content: space-evenly;
+    overflow: hidden;
+    width: 768px;
+    margin: 0 auto;
+    padding: 10px 0 0;
+    border-left: 125px solid transparent;
+    border-right: 125px solid transparent;
+}
+
+.main-benefit-content {
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 768px;
+    border-left: 16px solid transparent;
+    border-right: 16px solid transparent;
+    margin: 32px auto 0;
+}
+
+.plans-container--slider {
+    justify-content: space-evenly;
+    overflow: hidden;
+    padding: 15px 0 64px;
+    width: 768px;
+    margin: 0 auto;
+}
+
+.plans-container--card {
+    margin: 0 2vw;
+}
+
+.footer-links ul {
+    display: flex;
+    justify-content: space-between;
+    width: 125%;
+}
+
+.footer-links li {
+    display: inline-block;
+}
